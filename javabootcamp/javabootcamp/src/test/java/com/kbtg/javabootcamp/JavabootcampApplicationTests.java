@@ -1,10 +1,10 @@
-package com.example.javakbtgbootcamp;
+package com.kbtg.javabootcamp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaKbtgBootcampApplicationTests {
+class JavabootcampApplicationTests {
 
 	@Test
 	void contextLoads() {
